@@ -4,7 +4,7 @@ The Great Wall of China, a UNESCO World Heritage site, is a breathtaking archite
 
 ## A Glimpse into History and Construction
 
-The wall's construction began during the Qin Dynasty and was expanded by later dynasties, including the Han and Ming. It played a crucial role in China's defense, serving as a military stronghold with watchtowers and beacon towers. Over centuries, it has influenced Chinese culture, appearing in literature, art, and folklore.
+The wall's construction began during the Qin Dynasty and was expanded by later dynasties, including the Han and Ming. It played a crucial role in China's defense, serving as a military stronghold with watchtowers and beacon towers. Over centuries, it has influenced Chinese culture, appearing in literature, art,and folklore.
 
 ## Ingenious Engineering and Timeless Design
 
